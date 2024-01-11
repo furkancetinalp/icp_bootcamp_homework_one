@@ -113,5 +113,5 @@ fn main() {
     //alternative method!
     //getting vector of tasks and printing as a json
     let data = todo_list.list_tasks_best_practice();
-    // println!("{:#?}",data);
+    println!("{:#?}",data);
 }
